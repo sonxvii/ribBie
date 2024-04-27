@@ -359,6 +359,7 @@ h2 {
     grid-column: 1/2;
     margin-top: 50px;
     cursor: pointer;
+    fill: #b5b5b5;
 }
 
 /* ============================================== */
