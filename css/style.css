@@ -878,6 +878,7 @@ h2 {
         align-items: center;
         justify-content: start;
         margin-right: 200px;
+        fill: black;
         width: 80px;
     }
 
