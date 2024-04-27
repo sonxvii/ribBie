@@ -79,6 +79,10 @@ h2 {
     background-color: #ECECEC;
 }
 
+.main__img0 {
+    display: none;
+}
+
 .main__img1 {
     grid-column: 1/6;
     grid-row: 1/8;
@@ -352,6 +356,7 @@ h2 {
     display: block;
     grid-column: 1/2;
     cursor: pointer;
+    fill: black;
 }
 
 .wrapper__logo2 {
@@ -878,7 +883,6 @@ h2 {
         align-items: center;
         justify-content: start;
         margin-right: 200px;
-        fill: black;
         width: 80px;
     }
 
